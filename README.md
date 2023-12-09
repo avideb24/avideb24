@@ -17,18 +17,17 @@
 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1xVpSpADf_iOG6R8yr9Ye6Qwu1ewXAVau/view?usp=drive_link)
 
 
-<h3 align="left" style="margin-top: 50px; border-bottom: 2px solid #fff; color:#fff; padding-bottom: 5px;">Description:</h3>
+<h1 align="left">Description:</h1>
 <p align="center" style="text-align:justify">I build websites using HTML and CSS for structure and style. I make things look good and responsive with Bootstrap and Tailwind CSS. For the behind-the-scenes magic, I use the MERN stack – MongoDB for data, Express.js for server stuff, React for dynamic user interfaces, and Node.js to tie it all together. It's a toolkit that lets me create attractive web applications.</p>
 
 
-<h3 align="left" style="margin-top: 50px; border-bottom: 2px solid #fff; color:#fff; padding-bottom: 5px;">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/avi-debnath-bd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avi-debnath-bd/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100093367126028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100093367126028" height="30" width="40" /></a>
 </p>
 
-<h3 align="left" style="margin-top: 50px; border-bottom: 2px solid #fff; color:#fff; padding-bottom: 5px;">Languages and Tools:</h3>
-<p align="center"> 
+<h1 align="left">Languages and Tools:</h1>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -39,7 +38,7 @@
 </a>
 </p>
 
-<h3 align="left" style="margin-top: 50px; border-bottom: 2px solid #fff; color:#fff; padding-bottom: 5px;">Current Stats:</h3>
+<h1 align="left">Current Stats:</h1>
 <!-- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) -->
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=avideb24&theme=ocean-gradient&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p>
