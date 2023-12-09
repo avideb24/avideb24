@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+
 
 ![The San Juan Mountains are beautiful!](/assets/cover.webp "San Juan Mountains")
 
@@ -36,11 +36,10 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
 </p>
-
 <h3 align="left">Current Stats</h3>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) -->
 
-<a style="display: block;margin: 0 auto;text-align: center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=avideb24&theme=ocean-gradient&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=avideb24&theme=ocean-gradient&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p>
 
-</div>
+
