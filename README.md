@@ -24,8 +24,8 @@
 <h1 align="left">Connect with me:</h1>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avi-debnath-bd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avi-debnath-bd/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100093367126028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100093367126028" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avi-debnath-bd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avi-debnath-bd/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100093367126028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100093367126028" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
