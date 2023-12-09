@@ -43,6 +43,6 @@
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) -->
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=avideb24&theme=ocean-gradient&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a style="display: block;margin: 30px auto;" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=avideb24&theme=ocean-gradient&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 </div>
