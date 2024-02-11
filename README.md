@@ -8,13 +8,13 @@
 
 🌱 I’m currently learning **Material UI, LottieFiles** 
 
-👨‍💻 All of my projects are available at [My Portfolio](https://avideb24.github.io/my-portfolio/)
+👨‍💻 All of my projects are available at [My Portfolio](https://avi-portfolio-two.vercel.app/)
 
 💬 Ask me about **React**
 
 📫 Reach me **devavi24bd@gmail.com**
 
-📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1xVpSpADf_iOG6R8yr9Ye6Qwu1ewXAVau/view?usp=drive_link)
+📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GuloT2OzcVS1u_suyTpbFAhZVEq979R0/view?usp=sharing)
 
 
 <h1 align="left">Description:</h1>
