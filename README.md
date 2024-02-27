@@ -10,7 +10,7 @@
 
 👨‍💻 All of my projects are available at [My Portfolio](https://avi-portfolio-two.vercel.app/)
 
-💬 Ask me about **React**
+💬 Ask me about **ReactJs**
 
 📫 Reach me **devavi24bd@gmail.com**
 
