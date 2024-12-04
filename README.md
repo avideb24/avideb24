@@ -6,8 +6,6 @@
 <h3 align="center" style="margin-bottom: 50px;">A Front-End & MERN Stack Developer.</h3>
 
 
-🌱 I’m currently learning **Material UI, LottieFiles** 
-
 👨‍💻 All of my projects are available at [My Portfolio](https://avi-portfolio-two.vercel.app/)
 
 💬 Ask me about **ReactJs**
